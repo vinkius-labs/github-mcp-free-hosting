@@ -1,6 +1,6 @@
 #!/usr/bin/env node
-import { startServer } from '@vurb/core';
-import { f } from './vurb.js';
+import { startServer } from '@mcpfusion/core';
+import { f } from './mcpfusion.js';
 import { credentials } from './credentials.js';
 import * as tools from './agents/github/api.tool.js';
 

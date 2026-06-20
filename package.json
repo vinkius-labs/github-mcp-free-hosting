@@ -9,11 +9,11 @@
     "dev": "tsx src/server.ts",
     "test": "vitest run",
     "typecheck": "tsc --noEmit",
-    "deploy": "vurb deploy"
+    "deploy": "mcpfusion deploy"
   },
   "dependencies": {
-    "@modelcontextprotocol/sdk": "^1.29.0",
-    "@vurb/core": "3.15.0"
+    "@mcpfusion/core": "^4.3.0",
+    "@modelcontextprotocol/sdk": "^1.29.0"
   },
   "devDependencies": {
     "@types/node": "^20.0.0",

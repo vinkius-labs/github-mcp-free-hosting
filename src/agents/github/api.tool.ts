@@ -1,5 +1,5 @@
-import { f } from '../../vurb.js';
-import { requireCredential } from '@vurb/core';
+import { f } from '../../mcpfusion.js';
+import { requireCredential } from '@mcpfusion/core';
 import { GithubPresenter } from '../../views/index.js';
 import { 
     listUserRepos, 

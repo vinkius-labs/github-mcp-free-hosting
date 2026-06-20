@@ -1,4 +1,4 @@
-import { createPresenter, ui } from '@vurb/core';
+import { createPresenter, ui } from '@mcpfusion/core';
 import { GithubListModel } from '../models/index.js';
 
 interface GithubData {

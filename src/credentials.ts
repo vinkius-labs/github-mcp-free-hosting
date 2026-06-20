@@ -1,4 +1,4 @@
-import { defineCredentials } from '@vurb/core';
+import { defineCredentials } from '@mcpfusion/core';
 
 export const credentials = defineCredentials({
     GITHUB_PERSONAL_ACCESS_TOKEN: {
