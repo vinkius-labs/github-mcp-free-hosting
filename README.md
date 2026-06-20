@@ -4,6 +4,9 @@ This repository serves as a **showcase** to demonstrate how incredibly simple an
 
 Built using the powerful [@mcpfusion/core](https://github.com/vinkius-labs/mcpfusion) framework, this project illustrates the modern approach to creating secure, edge-native MCP servers with zero friction.
 
+🚀 **Ready to use?** If you just want to add GitHub tools to your AI agent immediately, you can use the hosted version here:  
+👉 **[vinkius.com/mcp/github](https://vinkius.com/mcp/github)**
+
 ## About Vinkius Cloud
 
 [Vinkius Cloud](https://vinkius.com) is the premier platform for deploying MCP (Model Context Protocol) servers. It provides an enterprise-grade execution environment designed for performance, security, and developer experience.
